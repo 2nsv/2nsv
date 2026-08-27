@@ -98,7 +98,7 @@
       "name": "Codeweb-social-badge Widget",
       "position": {
         "x": 0,
-        "y": 1070
+        "y": 1022
       },
       "size": {
         "width": 800,
@@ -111,7 +111,7 @@
           "gmail",
           "repositories"
         ],
-        "label_github": "",
+        "label_github": "https://github.com/2nsv",
         "animationType": "fade-in",
         "animationPreviewKey": 1
       },
