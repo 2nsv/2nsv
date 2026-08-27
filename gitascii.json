@@ -6,12 +6,12 @@
       "widgetId": "ascii-text",
       "name": "Ascii-text Widget",
       "position": {
-        "x": 0,
-        "y": 16
+        "x": 28,
+        "y": 32
       },
       "size": {
-        "width": 800,
-        "height": 120
+        "width": 760,
+        "height": 104
       },
       "config": {
         "customText": "Anas Ahmed",
